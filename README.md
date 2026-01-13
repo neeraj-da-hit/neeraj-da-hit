@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @neeraj-da-hit
-- 👀 I’m interested in Programing....
-- 🌱 I’m currently learning android app development
-- 💞️ I’m looking to any development trainee program
+- 👀 I’m interested in Mobile App Development....
+- 🌱 I have 1 years experience in Flutter Development
+- 💞️ I’m looking to job
 - 📫 How to reach me Neerajdahit@gmail.com
 
 <!---
